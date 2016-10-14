@@ -6,7 +6,7 @@ Hi, My name is Antony. I am an experienced Front-end/Back-end developer. I have 
 
 ####Experience
 
-**MTITM** July 2016 - Now (Kyiv, Ukraine)
+#####**MTITM** July 2016 - Now (Kyiv, Ukraine)
 
 _**Front-end Developer**_
 
@@ -16,7 +16,7 @@ HTML, CSS (SASS, LESS), JavaScript (AngularJS, jQuery),
 
 PSD to Code, Sketch to Code.
 
-**Peppers Digital** January 2016 - July 2016 (Kyiv, Ukraine)
+#####**Peppers Digital** January 2016 - July 2016 (Kyiv, Ukraine)
 
 _**Full-stack Developer**_
 
@@ -39,4 +39,11 @@ _**Computer Engeneering**_ (From 2016 - Remote)
 ####Skills
 #####**Front-end**
 
-- 
+####Languages
+**English**  Advanced
+
+**Russian** Native
+
+**Ukrainian**  Native
+
+####Interests
